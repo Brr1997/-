@@ -1,0 +1,50 @@
+Количество слов.
+
+family
+    семья
+parents
+    родители
+what is your name?
+    как вас зовут?
+my name is Bahriddin
+    меня зовут Бахриддин
+cat
+     кошка
+apple
+     яблоко
+how is your mood?
+     как у вас настроение?
+excellent thank you
+     отлично спасибо
+boy
+     мальчик
+girl
+     девушка
+i am a student
+     я студент
+who is your teacher?
+     кто твой учитель?
+our best teacher is Shterenberg
+     наш лучший учитель - Штеренберг
+horse
+      лошадь
+lion
+     лев
+what is the weather today?
+     какая сегодня погода?
+sun
+     солнце
+rain
+     дождь
+today weather is rainy
+     сегодня погода дождливая
+i love my parents
+     я люблю своих родителей
+friend
+      друг
+room
+      комната
+be silent about great talent
+      молчать большой талант
+hello world
+      привет мир
